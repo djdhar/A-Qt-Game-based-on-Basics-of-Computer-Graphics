@@ -1,6 +1,4 @@
 # A-Qt-Game-based-on-Basics-of-Computer-Graphics
 A Qt Game based on the Basics of Computer Graphics
 # Now
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-[![Youtube Link](https://ibb.co/9Gm6tq1)](https://www.youtube.com/watch?v=9BYW-sYuWkg)
+[![Youtube Link](https://i.ibb.co/hCxbfK4/Screenshot-2020-03-24-19-36-18-619-org-qtproject-example-BCSEIII.jpg)](https://www.youtube.com/watch?v=9BYW-sYuWkg)
